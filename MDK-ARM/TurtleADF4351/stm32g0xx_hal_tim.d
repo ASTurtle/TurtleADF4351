@@ -1,0 +1,37 @@
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Core/Inc/stm32g0xx_hal_conf.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_def.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Device/ST/STM32G0xx/Include/stm32g0xx.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Device/ST/STM32G0xx/Include/stm32g030xx.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Include/core_cm0plus.h
+turtleadf4351\stm32g0xx_hal_tim.o: D:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/CMSIS/Device/ST/STM32G0xx/Include/system_stm32g0xx.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+turtleadf4351\stm32g0xx_hal_tim.o: D:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_rcc_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_gpio_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dmamux.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_dma_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_cortex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_exti.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_spi_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_tim_ex.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h
+turtleadf4351\stm32g0xx_hal_tim.o: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h

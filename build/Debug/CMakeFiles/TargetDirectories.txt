@@ -1,0 +1,5 @@
+D:/WORK/ElectronicDesign/STM32Projects/TurtleADF4351/build/Debug/CMakeFiles/TurtleADF4351.dir
+D:/WORK/ElectronicDesign/STM32Projects/TurtleADF4351/build/Debug/CMakeFiles/edit_cache.dir
+D:/WORK/ElectronicDesign/STM32Projects/TurtleADF4351/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/WORK/ElectronicDesign/STM32Projects/TurtleADF4351/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/WORK/ElectronicDesign/STM32Projects/TurtleADF4351/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
